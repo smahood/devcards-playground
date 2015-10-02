@@ -1,0 +1,11 @@
+/* devcards-playground CSS */
+
+body {
+min-width: 1920px;
+}
+.responsive_design-core .com-rigsomelight-devcards-container
+{
+min-width:1920px;
+margin: 0;
+}
+
